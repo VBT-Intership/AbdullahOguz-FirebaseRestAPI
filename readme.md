@@ -2,10 +2,12 @@
 
 **Bu linkten postman üzerinde hazırladığım collectionlara erişebilirsiniz**
 
+[Postman Collection](https://www.getpostman.com/collections/8d6c8350505afca6d7df)
+
+
 ![alt](https://raw.githubusercontent.com/VBT-Intership/AbdullahOguz-FirebaseRestAPI/master/database_tree_image.png)
 
 
-[Postman Collection](https://www.getpostman.com/collections/8d6c8350505afca6d7df)
 
 
 

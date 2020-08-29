@@ -1,6 +1,9 @@
-## Firebase Rest API
+# Firebase Rest API
 
 **Bu linkten postman üzerinde hazırladığım collectionlara erişebilirsiniz**
+
+![alt](https://raw.githubusercontent.com/VBT-Intership/AbdullahOguz-FirebaseRestAPI/master/database_tree_image.png)
+
 
 [Postman Collection](https://www.getpostman.com/collections/8d6c8350505afca6d7df)
 
